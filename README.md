@@ -9,4 +9,4 @@ Here’s a breakdown of the information displayed in the dashboard:
 6. Quantity by Category: This section shows the number of sales transactions categorized by product category (Printers, Bookcases, Electronics, Accessories, Clothing, and Stole).
 7. Profit by Sub-Category: It displays the profit amount for each product subcategory.
 
-Overall, the Laweeza Ecommerce Sales Dashboard provides a quick overview of the company’s sales performance across different categories, states, and payment methods.
+Overall, the Laveeza Ecommerce Sales Dashboard provides a quick overview of the company’s sales performance across different categories, states, and payment methods.
